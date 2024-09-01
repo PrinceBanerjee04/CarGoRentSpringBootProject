@@ -1,4 +1,7 @@
 package com.example.CarGoRent.enums;
 
-public class UserRole {
+public enum UserRole {
+
+    ADMIN,
+    CUSTOMER
 }
